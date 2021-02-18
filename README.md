@@ -1,2 +1,2 @@
-# terraform-gcloud-image
-Terraform installed on top of google/cloud-sdk image. Ideal for CD Pipelines that require both GCloud SDK and Terraform.
+# Terraform/GCloudSDK Dockerfile Repo
+Are you a DevOps Engineer declaring IaC with Terraform and Deploying to GCP? use this image in your pipelines for simplify your job.
