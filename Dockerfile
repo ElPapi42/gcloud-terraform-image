@@ -1,4 +1,4 @@
-FROM google/cloud-sdk:latest
+FROM google/cloud-sdk:slim
 
 RUN apt-get install software-properties-common -y && apt-get update -y
 RUN curl -fsSL https://apt.releases.hashicorp.com/gpg | apt-key add -
